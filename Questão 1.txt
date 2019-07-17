@@ -1,0 +1,9 @@
+Questão 1:
+
+a) Classes são subtipos, assiim como os structs na programação estruturada. Objetos, são variáveis criadas com o tipo da classe criada.
+
+b) Um construtor é o primeiro método a ser chamado por uma classe, e ele só é chamado uma vez. Ele serve basicamente para inicializar os atributos, porém , não inicializa tipos primitivos. Ele pode não ser declarado, logo o próprio c++ já tem seu construtor padrão, por isso fica a criterio do programador declarar ou não.
+
+c) O encapsulamento serve para proteger o código do programador de pessoas de má intenção que pretendem alterar alguma variavel. Por exemplo, o valor de uma conta bancária. Também protege o código do próprio programador cometer algum erro, logo, serve para manter a integridade de dados.
+
+
